@@ -1,3 +1,4 @@
+![alt text](https://github.com/tniaz/Weed-Stock-Price-Prediction/blob/master/stock.png)
 # Project Description
 
 This project allows the user to use historical weed stock price data along with sentiment analysis to predict future prices. Historical prices are pulled from Yahoo, news text is fed using several Canadian sources with NewsAPI, and sentiment analysis is done using TextBlob.
